@@ -52667,5 +52667,60 @@
     "industries": [
       "Software"
     ]
+  },
+  {
+    "id": "1027",
+    "name": "Magi 2 AI",
+    "slug": "magi-2-ai",
+    "category": "Video",
+    "subcategory": "Video Generation",
+    "description": "Magi 2 AI turns prompts, photos, or up to four reference images into 1080p MAGI-2 videos with dialogue, sound effects, and ambience.",
+    "url": "https://magiaimaker.com/",
+    "tags": [
+      "ai video",
+      "magi-2",
+      "text-to-video",
+      "image-to-video"
+    ],
+    "pricing": "Pay-as-you-go",
+    "featured": false,
+    "popular": false,
+    "status": "active",
+    "last_verified": "2026-11-27",
+    "access_methods": [
+      "Web App"
+    ],
+    "compliance": {
+      "soc2": null,
+      "iso27001": null,
+      "gdpr": null,
+      "hipaa": null
+    },
+    "data_storage": {
+      "region": null,
+      "trains_on_data": false,
+      "self_hostable": false
+    },
+    "pricing_detail": {
+      "free_tier": null,
+      "paid_plans": "Pay per second with optional $9.99 credit packs; no subscription",
+      "api_cost": null
+    },
+    "use_cases": [
+      "Generating short videos from text prompts",
+      "Turning photos into animated videos",
+      "Creating videos from up to four reference images",
+      "Producing clips with dialogue, sound effects and ambience"
+    ],
+    "not_good_for": [
+      "Users looking for a free unlimited video generator",
+      "Users who need a native mobile app"
+    ],
+    "industries": [
+      "Video",
+      "Marketing",
+      "Creative"
+    ],
+    "compliance_sources": {}
   }
-]
+]\n
